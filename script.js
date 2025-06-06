@@ -7,7 +7,7 @@ function setCanvasSize() {
 }
 setCanvasSize();
 
-const shapes = ["🌙", "⭐", "✨"];
+const shapes = ["🌙", "⭐", "🐄", "🐮"];
 let confetti = [];
 
 for (let i = 0; i < 100; i++) {

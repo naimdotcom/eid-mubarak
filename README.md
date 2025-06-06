@@ -1,4 +1,4 @@
-# 🌙 Eid Mubarak Wish Animation Website
+# 🐐 Eid al-Adha Mubarak Wish Animation Website
 
 A beautiful and responsive web page that wishes everyone **Eid Mubarak** with animated moon 🌙, stars ⭐, and sparkling text — all built using **HTML, CSS, and JavaScript**.
 

@@ -27,12 +27,14 @@ body {
   font-weight: bold;
   text-shadow: 0 0 15px #fff, 0 0 30px gold;
   animation: glow 2s ease-in-out infinite alternate;
+  z-index: 10;
 }
 
 .subtext {
   margin-top: 1rem;
   font-size: 1.2rem;
   animation: fadeIn 3s ease-in-out;
+  z-index: 10;
 }
 
 @keyframes glow {
@@ -59,5 +61,5 @@ canvas {
   width: 100%;
   height: 100%;
   pointer-events: none; /* Prevent interference with UI */
-  z-index: 1;
+  z-index: -1;
 }
