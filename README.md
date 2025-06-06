@@ -32,13 +32,13 @@ To run the project locally:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/eid-mubarak-wish.git
+git clone https://github.com/your-username/eid-mubarak.git
 
 	2.	Open the project folder:
 ```
 
 ```bash
-cd eid-mubarak-wish
+cd eid-mubarak
 
 ```
 
