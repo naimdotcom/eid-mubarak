@@ -23,11 +23,22 @@ body {
 }
 
 .eid-text {
-  font-size: 4rem;
-  font-weight: bold;
-  text-shadow: 0 0 15px #fff, 0 0 30px gold;
-  animation: glow 2s ease-in-out infinite alternate;
+  font-size: 6vw; /* use viewport width for responsive size */
+  margin: 20px;
+  padding: 10px;
   z-index: 10;
+}
+
+@media (max-width: 600px) {
+  .eid-text {
+    font-size: 8vw;
+    padding: 8px;
+    z-index: 10;
+  }
+
+  body {
+    padding: 0 10px;
+  }
 }
 
 .subtext {
